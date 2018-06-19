@@ -1,4 +1,4 @@
-FROM ansible:centos7-ansible
+FROM centos
 #COPY src/ /var/www/html
 EXPOSE 2222
 
